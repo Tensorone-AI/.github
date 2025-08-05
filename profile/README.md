@@ -33,19 +33,3 @@ It powers the <a href="https://dapp.tensorone.ai/">Tensor One App</a>, check it 
 
 For complete rundown of features, check out the
 [documentation](https://docs.tensorone.ai/).
-
-## Requirements
-
-1. System Dependencies
-
--   Rust (with nightly toolchain)
--   `protoc`
--   `build-essential`
--   `pkg-config`
--   `libssl-dev`
-
-2. Configuration
-
--   Copy `.env.example` to `.env`
--   Set up `auth.json` for JITO authentication (optional, gRPC HTTP/2.0 searcher client)
--   Populate `fund.json`
