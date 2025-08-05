@@ -18,9 +18,9 @@ It powers the <a href="https://dapp.tensorone.ai/">Tensor One App</a>, check it 
 
 ## Tensor One Architecture
 
-![Agent Infrastructure](https://cdn.discordapp.com/attachments/962778444310126662/1402084846775439400/telegram-cloud-document-2-5413441758438650422.jpg?ex=6892a0c4&is=68914f44&hm=efe7511dadd0df78dd59d81087f40d9e7d2de6949e7b14aec1ecfd022d604289&)
+![Agent Infrastructure](https://github.com/Tensorone-AI/.github/blob/main/images/infra.jpg?raw=true)
 
-![GPU Framework](https://cdn.discordapp.com/attachments/962778444310126662/1402085536776323144/spaces2FcZbUXFnBBoYbRqrLMMhS2Fuploads2FRTE7gx7H4vf4Doq4qLwx2Ftelegram-cloud-document-2-5409040924493770953.png?ex=6892a169&is=68914fe9&hm=6b550c3503c3adb8221007f4423f4bb259eb4fbffb6b459bc412441d6f17e3fd&&)
+![GPU Framework](https://github.com/Tensorone-AI/.github/blob/main/images/gpu.png?raw=true)
 
 ## Features
 
