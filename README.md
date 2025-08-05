@@ -1,51 +1,22 @@
 <p align="center">
-<img src="https://github.com/Tensorone-AI/.github/blob/main/images/icon.png?raw=true" width="35%" />
-<br />
+  <a href="https://tensorone.ai">
+    <img alt="Tensor One Logo" src="change logo" height="80" />
+  </a>
 </p>
-<p align="center">
-<a href="https://docs.tensorone.ai/"><img src="https://img.shields.io/badge/docs-API-blue.svg" /></a> &nbsp;
-<a href="https://github.com/Tensorone-AI/tensorone">
-  <img src="https://img.shields.io/github/stars/Tensorone-AI/tensorone?style=social" />
-</a>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/built_with-JavaScript-f7df1e.svg" /></a>
 
-<p align="center">
-Unlock AI & ML potential with <code>Tensor One</code>. Access and contribute to cutting-edge AI agents & tools.
-</p>
-<p align="center">
-It powers the <a href="https://dapp.tensorone.ai/">Tensor One App</a>, check it out to see what <code>Tensor One</code> is capable of
+<h3 align="center">Unlock AI & ML potential with Tensor One. Access and contribute to cutting-edge AI agents & tools. </h3>
 
-## Tensor One Architecture
+---
 
-![Agent Infrastructure](https://github.com/Tensorone-AI/.github/blob/main/images/infra.jpg?raw=true)
+**Tensor One** is an AI infrastructure platform enabling anyone to create, interact with, and scale autonomous AI agents. From no-code agent building to decentralized compute, we’re creating the backbone for the next generation of intelligent software.
 
-![GPU Framework](https://github.com/Tensorone-AI/.github/blob/main/images/gpu.png?raw=true)
+### Get Started
 
-## Features
+- [Website](https://tensorone.ai) — Explore the platform, tools, and product roadmap
+- [dApp](https://dapp.tensorone.ai/) — Run prompts, use AI tools, and deploy agents
+- [Documentation](https://docs.tensorone.ai) — Learn how to build agents, contribute compute, and more
+- [X (formerly Twitter)](https://twitter.com/tensor_one) — Follow for updates, product drops, and threads
+- [Telegram](https://t.me/TensorOneAI) — Join the conversation and ask questions
+- [Blog](https://medium.com/@tensor_one) — Read breakdowns, architecture posts, and launch updates
 
--   🤖 No-code AI agent builder with customizable behavior, personality, and voice
--   🎨 Access powerful AI tools like voice cloning, media generation, and app/website creation
--   ⚡ Distributed compute via browser extension with real-time GPU contribution
--   💸 Monetization options for builders through usage fees or subscriptions
--   🧠 Agent coordination and prompt execution through a unified interface
--   📊 Usage analytics and performance tracking (future)
-
-For complete rundown of features, check out the
-[documentation](https://docs.tensorone.ai/).
-
-## Requirements
-
-1. System Dependencies
-
--   Rust (with nightly toolchain)
--   `protoc`
--   `build-essential`
--   `pkg-config`
--   `libssl-dev`
-
-2. Configuration
-
--   Copy `.env.example` to `.env`
--   Set up `auth.json` for JITO authentication (optional, gRPC HTTP/2.0 searcher client)
--   Populate `fund.json`
+For questions, collaborations, or support, reach out at contact@tensorone.ai
